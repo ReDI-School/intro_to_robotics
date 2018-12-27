@@ -1,10 +1,10 @@
 # 1. LED
 
 ## Description
-One LED blinks with a constant frequency
+One LED blinks with a constant frequency.\
 [video](https://vimeo.com/308431468)
 
-## Hardware used: 
+## Hardware used:
 * Arduino Uno R3
 * Breadboard
 * 1 * 1 KOhm resistor

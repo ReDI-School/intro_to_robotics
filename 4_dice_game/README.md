@@ -2,7 +2,7 @@
 
 ## Description 
 When the button is pressed, six LEDs perform a simple animation, when the button is released, 
-LEDs show a random number between 1 and 6 (number of LEDs turned on is a given number) 
+LEDs show a random number between 1 and 6 (number of LEDs turned on is a given number).\
 [video](https://vimeo.com/308431525)
 
 ## Hardware used

@@ -1,7 +1,7 @@
 # 2. Six LEDs
 
 ## Description
-Six LEDs in a line perform a simple animation with a constant speed
+Six LEDs in a line perform a simple animation with a constant speed.\
 [video](https://vimeo.com/308431493)
 
 ## Hardware used
@@ -13,5 +13,5 @@ Six LEDs in a line perform a simple animation with a constant speed
 ## New hardware knowledge
 
 ## New C++ knowledge
-* for loop 
+* for loop
 

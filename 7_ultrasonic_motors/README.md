@@ -1,7 +1,7 @@
 # 7. Obstacles avoiding robot
 
 ## Description
-Robot moves until faces obstacles, when turns until finds the way out. After turning for some time with no result is stops.
+Robot moves until faces obstacles, when turns until finds the way out. After turning for some time with no result is stops.\
 [video](https://vimeo.com/308431580)
 
 ## Hardware used
