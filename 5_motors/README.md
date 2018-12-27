@@ -4,6 +4,7 @@
 Two motors connected to a motor shield perform following actions in a loop: both go forward, both go 
 backward, one goes forward one - backward and vice-versa. If the wheel platform is used, then it will be: 
 platform goes forward, goes backward, turns in one direction, turns in the opposite direction
+[video](https://vimeo.com/308431561)
 
 ## Hardware used
 * Arduino Uno R3

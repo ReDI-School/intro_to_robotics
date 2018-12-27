@@ -14,7 +14,7 @@ hardware sketches, created using [Fritzing](http://fritzing.org/home/).
 Every example folder contains also it's own README file with a short description of a project, needed hardware and
 used C++ features.
 
-Videos for the examples can be found in [shared folder](https://drive.google.com/open?id=1IM95TeLhyyISlwULM54-3pLDfEiW7HbJ)
+Videos for the examples can be found in [vimeo album](https://vimeo.com/album/5646814)
 
 The classes which are reused in several examples are situated in the **libraries** folder and can be included as libraries
 (.zip files) to Arduino IDE

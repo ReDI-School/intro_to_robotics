@@ -5,6 +5,8 @@ Transmitter board is has a joystick connected. When joystick is moved, transmitt
 to an action for a robot and sends it to receiver. Receiver board gets the messages from the transmitter
 and starts the motors respectively to the commands in the messages. 
 and prints them to the console output.
+[video](https://vimeo.com/308431610)
+
 
 ## Hardware used
 * 2 * Arduino Uno R3
